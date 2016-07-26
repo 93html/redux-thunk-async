@@ -1,4 +1,7 @@
 # redux-thunk-async
+[![npm version](https://img.shields.io/npm/v/redux.svg?style=flat-square)](https://www.npmjs.com/package/redux-thunk-async)
+[![npm downloads](https://img.shields.io/npm/dm/redux.svg?style=flat-square)](https://www.npmjs.com/package/redux-thunk-async)
+
 usage
 ```js
 import thunkWidthAsync from 'redux-thunk-async';

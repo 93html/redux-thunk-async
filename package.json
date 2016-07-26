@@ -1,6 +1,6 @@
 {
   "name": "redux-thunk-async",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Combine with redux-thunk and redux-async",
   "main": "src/index.js",
   "repository": {
