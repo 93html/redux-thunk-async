@@ -1,8 +1,22 @@
 {
   "name": "redux-thunk-async",
   "version": "0.0.1",
-  "description": "",
+  "description": "Combine with redux-thunk and redux-async",
   "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/93html/redux-thunk-async.git"
+  },
+  "keywords": [
+    "redux",
+    "middleWare",
+    "thunk",
+    "async"
+  ],
+  "bugs": {
+    "url": "https://github.com/93html/redux-thunk-async/issues"
+  },
+  "homepage": "https://github.com/93html/redux-thunk-async",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.10.4",

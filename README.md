@@ -1,6 +1,6 @@
 # redux-thunk-async
 usage
-```
+```js
 import thunkWidthAsync from 'redux-thunk-async';
 
 const middleWares = [
@@ -13,7 +13,7 @@ createStoreWithMiddleware(reducers);
 ```
 
 regular thunk action
-```
+```js
 export function bar(foo) {
     return {
         type: 'BAR',
@@ -34,7 +34,7 @@ export function test(foo) {
 
 ```
 regular async action
-```
+```js
 export function getRepos(url) {
     return {
         types: [
@@ -50,7 +50,7 @@ export function getRepos(url) {
 ```
 
 async thunk action
-```
+```js
 export function getUser(adminID) {
     return dispatch => ({
         types: [
