@@ -1,6 +1,6 @@
 # redux-thunk-async
-[![npm version](https://img.shields.io/npm/v/redux.svg?style=flat-square)](https://www.npmjs.com/package/redux-thunk-async)
-[![npm downloads](https://img.shields.io/npm/dm/redux.svg?style=flat-square)](https://www.npmjs.com/package/redux-thunk-async)
+[![npm](https://img.shields.io/npm/v/redux-thunk-async.svg?maxAge=2592000)](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)
+[![npm](https://img.shields.io/npm/dt/redux-thunk-async.svg?maxAge=2592000)](https://www.npmjs.com/package/redux-thunk-async)
 
 usage
 ```js
